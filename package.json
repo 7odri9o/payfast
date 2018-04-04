@@ -1,0 +1,24 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "Um Gateway para pagamentos através de recursos http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7odri9o/payfast.git"
+  },
+  "keywords": [
+    "gateway",
+    "pagamentos",
+    "api"
+  ],
+  "author": "7odri9o",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7odri9o/payfast/issues"
+  },
+  "homepage": "https://github.com/7odri9o/payfast#readme"
+}
