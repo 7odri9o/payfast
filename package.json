@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/7odri9o/payfast/issues"
   },
-  "homepage": "https://github.com/7odri9o/payfast#readme"
+  "homepage": "https://github.com/7odri9o/payfast#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
